@@ -11,4 +11,4 @@ Nous avons décidé d’étudier les données de 2020 publiées sur le site DASL
 comment les différents facteurs peuvent avoir un impact les uns sur les autres et influer le bonheur ressenti ou non d’une population. 
 
 ## Contenu
-Vous trouverez les scripts utilisés sur R dans le dossier "..." et les tableaux réalisés en format .jpg dans le dossier "...." .
+Vous trouverez les scripts utilisés sur R dans le dossier "Projet Ravie.R" et les tableaux réalisés par régions en format .jpg dans le dossier "Régions" .
